@@ -29,6 +29,7 @@ $minimal_apt_get_install build-essential checkinstall git-core \
   libncurses5-dev libffi-dev libxml2-dev libxslt-dev curl libcurl4-openssl-dev libicu-dev \
   graphviz libmysqlclient-dev libpq-dev libsqlite3-dev \
   jq \
+  shared-mime-info \
   bundler \
   ruby ruby-dev locales tzdata iputils-ping
 locale-gen en_US.UTF-8
